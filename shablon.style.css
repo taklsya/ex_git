@@ -31,3 +31,8 @@ header, footer, article, nav, main, div{
 #ads{
     grid-area: ads;
 }
+
+.suction1{
+    color: red;
+    border: 1px solid red;
+}
